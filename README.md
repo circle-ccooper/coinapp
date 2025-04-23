@@ -7,11 +7,9 @@ Seamless, Gasless Transactions with Passkey Security and Instant Top-ups
 1. Clone the repository and install dependencies:
 
    ```bash
-   git clone https://github.com/dhlabsco/coinapp-mobile-web.git
-   cd coinapp-mobile-web
    npm install
    ```
-2. Create Supabase Project
+2. Create Supabase Project (https://supabase.com/)
 3. Create a Twilio Account and set up Twilio Verify for Phone Auth (https://console.twilio.com/us1/develop/verify/overview)
 4. In Supabase go to Authentication -> Sign In/Up. Under Auth Providers disable Email and enable Phone and set up Twilio Verify settings. Set up a Test Phone Number and OTP.
 5. Create a Stripe account and obtain secret and publishable keys
