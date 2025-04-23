@@ -1,4 +1,4 @@
-# CoinApp
+# 💸 CirclePay P2P
 
 Seamless, Gasless Transactions with Passkey Security and Instant Top-ups
 
