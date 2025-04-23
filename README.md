@@ -22,7 +22,7 @@ Seamless, Gasless Transactions with Passkey Security and Instant Top-ups
    NEXT_PUBLIC_VERCEL_URL=
 
    # Supabase configuration (https://app.supabase.com/project/_/settings/api)
-   NEXT_PUBLIC_SUPABASE_URL=https://dhichgwwwwlaczwjvclq.supabase.co
+   NEXT_PUBLIC_SUPABASE_URL=
    NEXT_PUBLIC_SUPABASE_ANON_KEY=
 
    # Circle API configuration (https://console.circle.com/apikeys)
